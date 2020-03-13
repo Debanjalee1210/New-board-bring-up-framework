@@ -1,0 +1,5 @@
+cmd_diag.c:82:12:listall	0	static
+cmd_diag.c:92:12:do_boarddiag	24	static
+cmd_diag.c:113:5:Atoi	8	static
+cmd_diag.c:7:12:runall	56	static
+cmd_diag.c:40:12:runtest	16	static

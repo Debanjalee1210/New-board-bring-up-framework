@@ -1,0 +1,1 @@
+cmd_../diagnostics-sw/testcases/built-in.o :=  arm-buildroot-linux-uclibcgnueabihf-ld.bfd     -r -o ../diagnostics-sw/testcases/built-in.o ../diagnostics-sw/testcases/RAM_test.o ../diagnostics-sw/testcases/i2c-test.o ../diagnostics-sw/testcases/ping_test.o ../diagnostics-sw/testcases/volt_rail_test.o ../diagnostics-sw/testcases/eeprom.o ../diagnostics-sw/testcases/rtc_testcase.o 

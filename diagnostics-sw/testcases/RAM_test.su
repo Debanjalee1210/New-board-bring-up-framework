@@ -1,0 +1,3 @@
+RAM_test.c:43:6:write_pattern	0	static
+RAM_test.c:54:6:read_pattern	8	static
+RAM_test.c:29:5:do_memory_test	16	static
